@@ -8,3 +8,6 @@ unstructured
 pypdf
 packaging>=24.0
 pdfplumber
+jq
+termcolor
+langchain-experimental
