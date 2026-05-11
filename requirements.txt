@@ -11,3 +11,5 @@ pdfplumber
 jq
 termcolor
 langchain-experimental
+ollama
+langchain-ollama
