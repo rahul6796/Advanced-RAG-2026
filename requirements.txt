@@ -13,3 +13,4 @@ termcolor
 langchain-experimental
 ollama
 langchain-ollama
+langchain-chroma
