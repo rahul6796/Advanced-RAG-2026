@@ -14,3 +14,4 @@ langchain-experimental
 ollama
 langchain-ollama
 langchain-chroma
+rank_bm25
