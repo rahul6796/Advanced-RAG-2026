@@ -16,3 +16,4 @@ langchain-ollama
 langchain-chroma
 rank_bm25
 lark
+tavily-python
