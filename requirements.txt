@@ -18,3 +18,5 @@ rank_bm25
 lark
 tavily-python
 ragas
+flashrank
+pydantic
