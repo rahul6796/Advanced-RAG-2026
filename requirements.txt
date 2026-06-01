@@ -20,3 +20,6 @@ tavily-python
 ragas
 flashrank
 pydantic
+langchain-unstructured
+unstructured[pdf]
+open-clip-torch
